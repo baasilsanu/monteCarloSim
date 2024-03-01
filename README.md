@@ -1,6 +1,6 @@
 ## README.md
 
-Simple program to derive the probabilites of the Monty Hall problem. The right solution (though highly controversial) is 
+Simple program to derive the probabilites of the Monty Hall problem. The right solution (which was highly controversial) is 
 derived here using the Monte Carlo method. 
 
 Details of the problem can be found [here.](https://en.wikipedia.org/wiki/Monty_Hall_problem)
